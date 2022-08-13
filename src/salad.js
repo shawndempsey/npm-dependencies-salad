@@ -5,7 +5,7 @@ class Salad {
         this.lettuce = new Lettuce();
     }
     describe() {
-        return `Salad v1.0.0 ${this.lettuce.describe()}`;
+        return `Salad v1.0.2 ${this.lettuce.describe()}`;
     }
 }
 module.exports.Salad = Salad;
