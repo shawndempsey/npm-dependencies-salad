@@ -1,7 +1,7 @@
 {
   "name": "npm-dependencies-salad",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "src/index.js",
   "author": "Shawn Dempsey <shawn@shawndempsey.ca>",
   "license": "MIT",
   "dependencies": {
